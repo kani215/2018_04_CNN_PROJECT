@@ -8,3 +8,6 @@ This program has PHOTO DATAS , which consist of trainset, testset and validation
 
 This program functions largely as a CNN model.
 This program will tell you if you are a my friend or not.
+
+참조
+https://3months.tistory.com/199
